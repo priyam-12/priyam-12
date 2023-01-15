@@ -1,7 +1,5 @@
 <h2> Hi, I'm Priyam!</h2>
 
-<img src="badges/az900.png" width="200">
-
 <p><em>Cloud Security Analyst at <a href="https://www.accenture.com/in-en">Accenture</a></br>Frontend Newbie</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <br>
