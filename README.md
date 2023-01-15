@@ -11,11 +11,7 @@ const priyam = {
   activelyLearning: [React, Node, Git, Linux],
   cloudTechnologies: ["Azure", "AWS", "OCI"],
   certifications: {
-                        azure:[
-                        "AZ900",
-                        "SC200",
-                        "SC900"
-                        ],
+                        azure: ["AZ900","SC200","SC900"],
                         aws: null,
                         oci: null
                       },
@@ -26,8 +22,8 @@ const priyam = {
 
 ####  Certification Badges:
 
-<img src="badges/az900.png" width="80">
-<img src="badges/sc900.png" width="80">
-<img src="badges/sc200.png" width="80">
+<img align="left" src="badges/az900.png" width="80">
+<img align="left" src="badges/sc900.png" width="80">
+<img align="left" src="badges/sc200.png" width="80">
 
 
